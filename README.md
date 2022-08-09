@@ -1,4 +1,4 @@
-# Bus-passenger-flow-forecasting
+# Bus passenger flow forecasting
 Design a novel Graph Neural Network for bus passenger flow prediction
 | **Fichier**               | **Desciption**   |
 |---------------------------|------------------|
